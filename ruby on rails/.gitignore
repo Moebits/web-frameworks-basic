@@ -1,0 +1,7 @@
+.bundle
+.env
+log
+tmp
+storage
+db
+config/master.key
